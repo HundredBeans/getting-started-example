@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/HundredBeans/getting-started-example/compare/hundredbeans-header-test@1.3.0...hundredbeans-header-test@1.4.0) (2023-10-27)
+
+
+### Features
+
+* **header:** Update the header text ([6481e13](https://github.com/HundredBeans/getting-started-example/commit/6481e1351579154012d2fbe12db62e8ddf4a0e03))
+
+
+
+
+
 # 1.3.0 (2023-10-27)
 
 
