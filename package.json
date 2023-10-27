@@ -4,6 +4,9 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "publish-packages": "lerna publish --conventional-commits --create-release github --yes"
+  },
   "devDependencies": {
     "lerna": "^7.1.5"
   },
