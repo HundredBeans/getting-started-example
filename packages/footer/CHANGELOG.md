@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.1](https://github.com/HundredBeans/getting-started-example/compare/hundredbeans-footer-test@1.4.0...hundredbeans-footer-test@1.4.1) (2023-10-27)
+
+
+### Bug Fixes
+
+* Typo in the footer component ([4747733](https://github.com/HundredBeans/getting-started-example/commit/474773393739a2087dd5cd4e5c0c7b22459b1047))
+
+
+
+
+
 # 1.4.0 (2023-10-27)
 
 
