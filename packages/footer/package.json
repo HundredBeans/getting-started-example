@@ -1,5 +1,5 @@
 {
-  "name": "footer",
+  "name": "@hundredbeans/footer",
   "version": "1.2.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
